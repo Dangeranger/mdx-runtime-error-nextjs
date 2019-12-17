@@ -1,12 +1,7 @@
-# MDX + Next.js
+# MDX + Next.js + MDX Runtime
 
-A basic example using imports and custom components.
+This project is a simple example to show that using `@mdx-js/runtime` within NextJS is raising the following error.
 
-> [Try it on CodeSandbox](https://codesandbox.io/s/github/mdx-js/mdx/tree/master/examples/next)
-
-```sh
-yarn
-yarn dev
 ```
-
-[See documentation](https://mdxjs.com/getting-started/next)
+Module not found: Can't resolve '@mdx-js/runtime' in '~/code/mdx-runtime-error-nextjs/pages'
+```
